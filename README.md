@@ -27,7 +27,7 @@
 ## Table of Contents
 
 - [Overview](#overview)
-  - [Built With](#built-with)
+- [Built With](#built-with)
 - [Features](#features)
 - [Contact](#contact)
 - [Acknowledgements](#acknowledgements)
@@ -45,7 +45,7 @@ This is a 404 not found page. It is a simple webpage that displays a 404 error.
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
 - [HTML](https://html.com/)
-- [Vue.js](https://www.w3schools.com/css/)
+- [CSS](https://www.w3schools.com/css/)
 
 
 ## Features
