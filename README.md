@@ -16,8 +16,8 @@
       Github Repo
     </a>
     <span> | </span>
-    <a href="https://legacy.devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY">
-      Challenge
+    <a href="https://legacy.devchallenges.io/solutions/6U8P8eBamGOdlsRxGTHa">
+      Solution
     </a>
   </h3>
 </div>
