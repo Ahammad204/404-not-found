@@ -36,7 +36,7 @@
 
 ## Overview
 
-![screenshot]("./images/ahammad204.github.io_404-not-found_.png")
+![screenshot](https://i.ibb.co/GvLmK6k/ahammad204-github-io-404-not-found.png)
 
 This is a 404 not found page. It is a simple webpage that displays a 404 error.
 
